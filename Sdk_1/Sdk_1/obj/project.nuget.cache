@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wR97+HM3BVa6X3hUZhl8iR84b+O0KBSUedKj/XweCw0eNE+497AJ6tQUiOj1f74VBkVdr2dUduyNYGK5/rnw/w==",
+  "dgSpecHash": "oVNv3V4vJIjmDxyYTlYBgRDtgSFwIlleWhPuqT546bbth57grTGOia32Fao7oeYxOoMFmiZSek9o67Jda9+ubg==",
   "success": true,
   "projectFilePath": "C:\\Users\\AdamSagas_jxgmrac\\source\\repos\\Git\\nugetProjectComplex\\Sdk_1\\Sdk_1\\Sdk_1.csproj",
   "expectedPackageFiles": [
@@ -112,7 +112,7 @@
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\nswag.core\\13.7.0\\nswag.core.13.7.0.nupkg.sha512",
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\nswag.generation\\13.7.0\\nswag.generation.13.7.0.nupkg.sha512",
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\nswag.generation.aspnetcore\\13.7.0\\nswag.generation.aspnetcore.13.7.0.nupkg.sha512",
-    "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\nswag.msbuild\\13.7.0\\nswag.msbuild.13.7.0.nupkg.sha512",
+    "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\nswag.msbuild\\13.6.2\\nswag.msbuild.13.6.2.nupkg.sha512",
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\nuget.frameworks\\4.7.0\\nuget.frameworks.4.7.0.nupkg.sha512",
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

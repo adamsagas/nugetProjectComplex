@@ -84,7 +84,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[13.7.0, )"
+              "version": "[13.6.2, )"
             },
             "Nancy": {
               "target": "Package",
