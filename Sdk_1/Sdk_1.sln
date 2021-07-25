@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSIX_1", "VSIX_1\VSIX_1.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sdk_3", "Sdk_3\Sdk_3.csproj", "{43EADED8-5050-4646-B285-6BD694741BAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non_Sdk_3", "Non_Sdk_3\Non_Sdk_3.csproj", "{A4963A85-0C20-47BD-865F-B3F98008E7E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSIX_2", "VSIX_2\VSIX_2.csproj", "{EF80E62E-9CC5-4502-9334-D5BEC4CEC841}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{43EADED8-5050-4646-B285-6BD694741BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43EADED8-5050-4646-B285-6BD694741BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43EADED8-5050-4646-B285-6BD694741BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4963A85-0C20-47BD-865F-B3F98008E7E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4963A85-0C20-47BD-865F-B3F98008E7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4963A85-0C20-47BD-865F-B3F98008E7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4963A85-0C20-47BD-865F-B3F98008E7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF80E62E-9CC5-4502-9334-D5BEC4CEC841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF80E62E-9CC5-4502-9334-D5BEC4CEC841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF80E62E-9CC5-4502-9334-D5BEC4CEC841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF80E62E-9CC5-4502-9334-D5BEC4CEC841}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
