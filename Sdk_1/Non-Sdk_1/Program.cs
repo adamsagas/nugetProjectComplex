@@ -10,6 +10,7 @@ namespace Non_Sdk_1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
