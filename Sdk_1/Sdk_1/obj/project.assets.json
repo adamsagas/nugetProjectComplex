@@ -1716,7 +1716,7 @@
           "lib/netstandard2.0/NSwag.Generation.AspNetCore.dll": {}
         }
       },
-      "NSwag.MSBuild/13.7.0": {
+      "NSwag.MSBuild/13.7.1": {
         "type": "package",
         "build": {
           "build/NSwag.MSBuild.props": {}
@@ -5921,17 +5921,17 @@
         "nswag.generation.aspnetcore.nuspec"
       ]
     },
-    "NSwag.MSBuild/13.7.0": {
-      "sha512": "X37HPT9ooe3f43fzSKefD6+1vn7dj/ginPQbMbsch5eA5I0UgpqBNq9kOGdoUuATmw9j3AyCIHkwY24qGyAj7Q==",
+    "NSwag.MSBuild/13.7.1": {
+      "sha512": "UE1xHV5GVGq0I2S7gGnTy1PuBybF2ChYKNV8OakmIvxQclhuI6BXtOEg/rmpE3X7CfRW6Oz68OnQwiIB7LVSdA==",
       "type": "package",
-      "path": "nswag.msbuild/13.7.0",
+      "path": "nswag.msbuild/13.7.1",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "build/NSwag.MSBuild.props",
         "buildCrossTargeting/NSwag.MSBuild.props",
-        "nswag.msbuild.13.7.0.nupkg.sha512",
+        "nswag.msbuild.13.7.1.nupkg.sha512",
         "nswag.msbuild.nuspec",
         "tools/NetCore21/DotLiquid.dll",
         "tools/NetCore21/Microsoft.AspNetCore.Authentication.Abstractions.dll",
@@ -11566,7 +11566,7 @@
       "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore >= 3.1.6",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.3",
       "NSwag.AspNetCore >= 13.7.0",
-      "NSwag.MSBuild >= 13.7.0",
+      "NSwag.MSBuild >= 13.7.1",
       "Nancy >= 1.4.4",
       "NetDevPack.Identity >= 1.1.1",
       "Newtonsoft.Json >= 13.0.1",
@@ -11656,7 +11656,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[13.7.0, )"
+            "version": "[13.7.1, )"
           },
           "Nancy": {
             "target": "Package",
