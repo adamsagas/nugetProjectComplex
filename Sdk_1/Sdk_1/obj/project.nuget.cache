@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oVNv3V4vJIjmDxyYTlYBgRDtgSFwIlleWhPuqT546bbth57grTGOia32Fao7oeYxOoMFmiZSek9o67Jda9+ubg==",
+  "dgSpecHash": "JOnSgfQ9HNTUAs+oq1tkJhE0476zjKDDTg9kp9M3e4UtKW2XSC8o/tuhcZv1ZFkP2SeB6Qbj8Y3NQ0BvTcFrbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AdamSagas_jxgmrac\\source\\repos\\Git\\nugetProjectComplex\\Sdk_1\\Sdk_1\\Sdk_1.csproj",
+  "projectFilePath": "C:\\Users\\AdamSagas_jxgmrac\\source\\repos\\Git\\s\\nugetProjectComplex\\Sdk_1\\Sdk_1\\Sdk_1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\fluentvalidation\\9.2.0\\fluentvalidation.9.2.0.nupkg.sha512",
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.2.0\\fluentvalidation.aspnetcore.9.2.0.nupkg.sha512",
