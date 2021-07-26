@@ -11579,11 +11579,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\AdamSagas_jxgmrac\\source\\repos\\Git\\nugetProjectComplex\\Sdk_1\\Sdk_1\\Sdk_1.csproj",
+      "projectUniqueName": "C:\\Users\\AdamSagas_jxgmrac\\source\\repos\\Git\\s\\nugetProjectComplex\\Sdk_1\\Sdk_1\\Sdk_1.csproj",
       "projectName": "Sdk_1",
-      "projectPath": "c:\\Users\\AdamSagas_jxgmrac\\source\\repos\\Git\\nugetProjectComplex\\Sdk_1\\Sdk_1\\Sdk_1.csproj",
+      "projectPath": "C:\\Users\\AdamSagas_jxgmrac\\source\\repos\\Git\\s\\nugetProjectComplex\\Sdk_1\\Sdk_1\\Sdk_1.csproj",
       "packagesPath": "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\AdamSagas_jxgmrac\\source\\repos\\Git\\nugetProjectComplex\\Sdk_1\\Sdk_1\\obj\\",
+      "outputPath": "C:\\Users\\AdamSagas_jxgmrac\\source\\repos\\Git\\s\\nugetProjectComplex\\Sdk_1\\Sdk_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AdamSagas_jxgmrac\\AppData\\Roaming\\NuGet\\NuGet.Config",
