@@ -60,6 +60,11 @@
     <PackageReference Include="Castle.Core-log4net">
       <Version>2.5.2</Version>
     </PackageReference>
+    <PackageReference Include="Microsoft.ChakraCore">
+      <Version>1.8.0</Version>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.SDK" Version="16.0.206" ExcludeAssets="runtime" />
     <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="16.8.3038" />
     <PackageReference Include="Nancy">
