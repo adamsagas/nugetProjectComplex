@@ -8,6 +8,10 @@
   <ItemGroup>
     <PackageReference Include="Castle.Core-log4net" Version="2.5.2" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Formatters.Json" Version="1.0.3" />
+    <PackageReference Include="Microsoft.ChakraCore" Version="1.8.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="System.Text.Encodings.Web" Version="4.0.1" />
   </ItemGroup>
 

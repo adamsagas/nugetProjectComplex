@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aCofT7v8+DQHNTD7whVPVRdN7+Pvxiy98RrCUtR0fQVCzjpNqy46BOElPSKipOaX9DEtvoI8IvXLzW9SV1N+Ig==",
+  "dgSpecHash": "M5y91dpvVtL9s8n8llY18SslHYdlNJ3Rlry7fIkUmVTk544FY/R5kWyHeLeQgloS3bQL37rGVLvJ0F3hUl/TTA==",
   "success": true,
   "projectFilePath": "C:\\Users\\AdamSagas_jxgmrac\\source\\repos\\Git\\s\\nugetProjectComplex\\Sdk_1\\Sdk_1\\Sdk_1.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,7 @@
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\1.0.2\\microsoft.aspnetcore.webutilities.1.0.2.nupkg.sha512",
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
+    "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\microsoft.chakracore\\1.8.0\\microsoft.chakracore.1.8.0.nupkg.sha512",
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.4\\microsoft.codeanalysis.analyzers.2.9.4.nupkg.sha512",
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\microsoft.codeanalysis.common\\3.3.1\\microsoft.codeanalysis.common.3.3.1.nupkg.sha512",
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.3.1\\microsoft.codeanalysis.csharp.3.3.1.nupkg.sha512",
