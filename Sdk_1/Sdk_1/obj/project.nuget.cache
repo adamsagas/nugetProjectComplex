@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "oIThG9uM3EcqWxos0GgpOexFDp8+zbWmIk3JSxLa24XKIEeoU6TxyPKmLdiNAyF2CwERsPszBAMozpnUArgTrA==",
-  "success": false,
+  "dgSpecHash": "/KXpZ6EaBNLckFqly0TPt/uy29cb8vYIVR+Qqhc5jCBfBBJAB90VcE2IKQDUZz3eWj+rbojIjESXAMtXE+m2Kw==",
+  "success": true,
   "projectFilePath": "C:\\Users\\AdamSagas_jxgmrac\\source\\repos\\Git\\nugetProjectComplex\\Sdk_1\\Sdk_1\\Sdk_1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\fluentvalidation\\9.2.0\\fluentvalidation.9.2.0.nupkg.sha512",
@@ -49,7 +49,7 @@
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.6\\microsoft.entityframeworkcore.3.1.6.nupkg.sha512",
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.6\\microsoft.entityframeworkcore.abstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.6\\microsoft.entityframeworkcore.analyzers.3.1.6.nupkg.sha512",
-    "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.4\\microsoft.entityframeworkcore.design.3.1.4.nupkg.sha512",
+    "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.6\\microsoft.entityframeworkcore.design.3.1.6.nupkg.sha512",
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.6\\microsoft.entityframeworkcore.relational.3.1.6.nupkg.sha512",
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.4\\microsoft.entityframeworkcore.sqlserver.3.1.4.nupkg.sha512",
     "C:\\Users\\AdamSagas_jxgmrac\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.6\\microsoft.entityframeworkcore.tools.3.1.6.nupkg.sha512",
@@ -236,15 +236,6 @@
       "warningLevel": 1,
       "message": "Package 'Nancy 1.4.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
       "libraryId": "Nancy",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Detected package downgrade: Microsoft.EntityFrameworkCore.Design from 3.1.6 to 3.1.4. Reference the package directly from the project to select a different version. \r\n Sdk_1 -> Microsoft.EntityFrameworkCore.Tools 3.1.6 -> Microsoft.EntityFrameworkCore.Design (>= 3.1.6) \r\n Sdk_1 -> Microsoft.EntityFrameworkCore.Design (>= 3.1.4)",
-      "libraryId": "Microsoft.EntityFrameworkCore.Design",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
       ]

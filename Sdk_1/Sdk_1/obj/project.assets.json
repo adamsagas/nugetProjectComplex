@@ -835,11 +835,11 @@
           "lib/netstandard2.0/_._": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Design/3.1.4": {
+      "Microsoft.EntityFrameworkCore.Design/3.1.6": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.7.0",
-          "Microsoft.EntityFrameworkCore.Relational": "3.1.4"
+          "Microsoft.EntityFrameworkCore.Relational": "3.1.6"
         },
         "compile": {
           "lib/netstandard2.0/_._": {}
@@ -4509,10 +4509,10 @@
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Design/3.1.4": {
-      "sha512": "vfY9sV3zJW/kwV9VBXAQlj5rky+bEI217WfurB8fct8YkQCtl+L5MCr0ej2NUOs/rpQyYsAocKU2379AyMtbVQ==",
+    "Microsoft.EntityFrameworkCore.Design/3.1.6": {
+      "sha512": "ji+fRRy6WpH9B1JRTTVSdIHSqHPMFD/ghmlbOENXa2pxyujEAno8Gtn6dDXl5UJbptCInzqoOpTl3W9etQKIMA==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.design/3.1.4",
+      "path": "microsoft.entityframeworkcore.design/3.1.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4521,7 +4521,7 @@
         "build/netcoreapp2.0/Microsoft.EntityFrameworkCore.Design.props",
         "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll",
         "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.xml",
-        "microsoft.entityframeworkcore.design.3.1.4.nupkg.sha512",
+        "microsoft.entityframeworkcore.design.3.1.6.nupkg.sha512",
         "microsoft.entityframeworkcore.design.nuspec"
       ]
     },
@@ -11560,7 +11560,7 @@
       "FluentValidation.AspNetCore >= 9.2.0",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.6",
       "Microsoft.AspNetCore.SpaServices.Extensions >= 3.1.6",
-      "Microsoft.EntityFrameworkCore.Design >= 3.1.4",
+      "Microsoft.EntityFrameworkCore.Design >= 3.1.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.4",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.6",
       "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore >= 3.1.6",
@@ -11628,7 +11628,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[3.1.4, )"
+            "version": "[3.1.6, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
@@ -11710,15 +11710,6 @@
       "warningLevel": 1,
       "message": "Package 'Nancy 1.4.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
       "libraryId": "Nancy",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Detected package downgrade: Microsoft.EntityFrameworkCore.Design from 3.1.6 to 3.1.4. Reference the package directly from the project to select a different version. \r\n Sdk_1 -> Microsoft.EntityFrameworkCore.Tools 3.1.6 -> Microsoft.EntityFrameworkCore.Design (>= 3.1.6) \r\n Sdk_1 -> Microsoft.EntityFrameworkCore.Design (>= 3.1.4)",
-      "libraryId": "Microsoft.EntityFrameworkCore.Design",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
       ]
